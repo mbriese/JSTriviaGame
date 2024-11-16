@@ -1,0 +1,2 @@
+# JSTriviaGame
+javascript trivia app
